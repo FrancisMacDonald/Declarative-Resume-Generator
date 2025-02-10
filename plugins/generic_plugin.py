@@ -1,0 +1,1 @@
+# this is a base class for all plugins
